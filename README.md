@@ -1,5 +1,5 @@
 # Problema-de-Coctel
-**Fecha:** 3 de septiembre de 2024  
+**Fecha:** ´80088 de septiembre de 2024  
 **Autor:** Juan Andres Torres, Julián Rodríguez y Eliana Peña
 
 # Descripción
